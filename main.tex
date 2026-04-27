@@ -1,0 +1,77 @@
+\documentclass[aspectratio=169,10pt]{beamer}
+
+\IfFileExists{beamerthememetropolis.sty}{
+  \usetheme[numbering=fraction,progressbar=frametitle]{metropolis}
+}{
+  \usetheme{Madrid}
+}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[catalan]{babel}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{mwe}
+
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,fit,calc}
+
+\definecolor{udgblue}{HTML}{005A8D}
+\definecolor{udgteal}{HTML}{0F8B8D}
+\definecolor{udgsea}{HTML}{76C7C0}
+\definecolor{udgsand}{HTML}{F2E9D8}
+\definecolor{udgcoral}{HTML}{E97A5E}
+\definecolor{udggray}{HTML}{4F5D75}
+
+\setbeamercolor{structure}{fg=udgblue}
+\setbeamercolor{frametitle}{fg=white,bg=udgblue}
+\setbeamercolor{title}{fg=white}
+\setbeamercolor{block title}{fg=white,bg=udgteal}
+\setbeamercolor{block body}{bg=udgsand}
+\setbeamercolor{alerted text}{fg=udgcoral}
+\setbeamerfont{frametitle}{series=\bfseries}
+
+\title{Com pensen els ordinadors i com aprenen els robots}
+\subtitle{Bloc 1: Pensament computacional, dades i programació}
+\author{Narcís Palomeras}
+\institute{Universitat de Girona}
+\date{\today}
+
+\newcommand{\keyline}[1]{%
+  \vspace{0.3em}
+  {\large\color{udgteal}\textbf{#1}}\par
+  \vspace{0.4em}
+}
+
+\newcommand{\slidelink}[1]{%
+  \vfill
+  {\tiny\color{udggray}\url{#1}\par}
+}
+
+\newcommand{\twolinks}[2]{%
+  \vfill
+  {\tiny\color{udggray}\url{#1}\par}
+  {\tiny\color{udggray}\url{#2}\par}
+}
+
+\newcommand{\threelinks}[3]{%
+  \vfill
+  {\tiny\color{udggray}\url{#1}\par}
+  {\tiny\color{udggray}\url{#2}\par}
+  {\tiny\color{udggray}\url{#3}\par}
+}
+
+\begin{document}
+
+\input{bloc1}
+
+\end{document}

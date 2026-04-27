@@ -23,109 +23,104 @@ El millor tancament és exactament el que proposes, però amb una reformulació 
 ## Guió detallat dels blocs inicials
 
 **Slide 1 — Títol general**  
-**Títol a pantalla:** *Com pensen els ordinadors i com aprenen els robots*  
-**Missatge clau:** “La informàtica no és només pantalles: és una manera d’entendre i transformar el món.”  
+**Títol a pantalla:** *Com pensen els ordinadors/robots*  
+**Missatge clau:** “La informàtica no son només pantalles: és una manera d’entendre i transformar el món.”  
 **Guió oral:** Presenta’t en primera persona: ets professor d’Enginyeria Informàtica especialitzat en robòtica, treballes a la universitat, i avui vens a explicar-los per què saber pensar com un informàtic ajuda a fer coses reals.  
-**Visual suggerit:** una foto teva o del laboratori, més una mini-col·lecció de robot, ordinador i entorn marí.  
-**Referència visual:** pàgina del centre i canal CIRS UdG. citeturn10search16turn0search2
+**Visual suggerit:** foto jo i nens i foto g1000_barco.  
+
 
 **Slide 2 — Pregunta d’entrada**  
-**Títol a pantalla:** *On hi ha informàtica al teu dia?*  
+**Títol a pantalla:** *On apareix la "informàtica" al teu dia?*  
 **Missatge clau:** “Més llocs dels que sembla.”  
 **Guió oral:** Demana que aixequin la mà si han fet servir un mòbil, un rellotge, una consola, un cotxe, un semàfor, una rentadora o un GPS avui o aquesta setmana. No expliquis encara res tècnic: només obre la curiositat.  
-**Visual suggerit:** collage gran d’objectes quotidians.  
-**Referència conceptual:** els dispositius digitals es poden entendre amb el model entrada–procés–sortida i els sistemes encastats són la base de moltes aplicacions modernes. citeturn15view5turn20view2turn20view0
+
 
 **Slide 3 — Programari dins dels objectes**  
-**Títol a pantalla:** *Molts objectes tenen “cervell digital”*  
-**Missatge clau:** “No tot és una web o un videojoc.”  
-**Guió oral:** Explica que molts objectes tenen petits ordinadors o microcontroladors a dins. No cal dir “embedded systems” en gran; si ho dius, immediatament tradueix-ho per “ordinadors petits dins d’un objecte”.  
-**Visual suggerit:** diagrama d’un objecte quotidià amb sensors, botons, pantalla i motor.  
-**Referència visual:** Arduino descriu els seus dispositius i programari com a tecnologies que interactuen amb el món físic; TI parla de microcontroladors i processadors per a aplicacions encastades i edge AI. citeturn20view0turn20view2turn20view3
+**Títol a pantalla:** *Com pense els objectes: el “cervell digital”*  
+**Missatge clau:** Els objectes no pensen com nosaltres sinó que executen una serie d'instruccions.  
+**Guió oral:** Explica que molts objectes tenen petits ordinadors o microcontroladors a dins que els permeten executar seqüencies de dades que algú ha programat.  
+**Visual suggerit:** ascensor, rentadora, web, consola, semaàor
 
 **Slide 4 — Exemples molt concrets**  
-**Títol a pantalla:** *Cotxes, rellotges, electrodomèstics, joguines…*  
+**Títol a pantalla:** *Com pense els objectes: el “cervell digital” II*  
 **Missatge clau:** “Molts aparells reben dades, processen i responen.”  
-**Guió oral:** Fes quatre exemples ràpids: un rellotge rep tocs i mostra informació; una rentadora llegeix botons i sensors; un cotxe usa sensors i control; un semàfor canvia segons regles i temps.  
+**Guió oral:** un ascensor rep botons i controla motors porta i canviar de pis, una rentadora llegeix botons i sensors (humitat) i controla entrada aigua motors, ...; un semàfor canvia segons regles i temps.  
 **Visual suggerit:** quatre fotos grans, una paraula cada una: *entrades*, *procés*, *sortida*, *acció*.  
-**Referència conceptual:** a KS2, Teach Computing presenta entrada, procés i sortida com a conceptes fonamentals de tots els dispositius digitals. citeturn15view5turn19search7
 
-**Slide 5 — El programari també dissenya i organitza**  
-**Títol a pantalla:** *I el programari també crea el món abans que existeixi*  
-**Missatge clau:** “No només controla objectes: també ajuda a dissenyar, simular i decidir.”  
+
+**Slide 5 — Els programes que "fan coses"**  
+**Títol a pantalla:** *Els programes no només es troben dins de determinats objectes sinó que també serveixen per crear-ne*  
+**Missatge clau:** “No només controlen objectes: també ajuden a dissenyar, simular i decidir.”  
 **Guió oral:** Aquí introdueix la idea que la informàtica també serveix per dibuixar edificis, analitzar dades científiques, planificar rutes, organitzar hospitals o estudiar el medi ambient. No intentis demostrar cada sector; el punt és que el programari ajuda altres professions.  
-**Visual suggerit:** una combinació de mapa digital, gràfic científic i model 3D.  
-**Referència conceptual:** ISTE i Raspberry Pi remarquen que el pensament computacional i la computació s’apliquen més enllà de la classe d’informàtica i travessen disciplines. citeturn15view2turn15view3turn23view4
+**Visual suggerit:** imatge dun sistema CAD, gràfic científic i model 3D.  
+
 
 **Slide 6 — Saber programar és una competència transversal**  
 **Títol a pantalla:** *Programar és una supereina*  
 **Missatge clau:** “T’ajuda a automatitzar, provar idees i entendre millor la tecnologia.”  
 **Guió oral:** Formula-ho així: “No tothom ha de ser programador professional, però entendre una mica de programació et dona poder per crear, provar, automatitzar i preguntar millor.”  
-**Visual suggerit:** una graella de professions: ciència, medicina, educació, art, enginyeria.  
-**Referència conceptual:** ISTE presenta el pensament computacional com una alfabetització essencial per a tots els estudiants i útil per dissenyar solucions en totes les disciplines. citeturn15view3turn23view4
+**Visual suggerit:** una graella de professions: cièntific, metge, mestre, artiste, enginyer.  
 
-**Slide 7 — Què és el pensament computacional**  
-**Títol a pantalla:** *Quatre idees per resoldre problemes*  
-**Missatge clau:** “Descompondre, buscar patrons, abstraure i fer passos.”  
+**Slide 7 — Què és Què és el pensament computacional**  
+**Títol a pantalla:** *El pensament computacional*  
+**Missatge clau:** “és una manera de resoldre problemes perquè una persona o una màquina els pugui seguir: Descompondre, buscar patrons, abstraure i fer passos.”  
 **Guió oral:** Dona una definició minimalista: és una manera de resoldre problemes perquè una persona o una màquina els pugui seguir.  
-**Visual suggerit:** quatre icones simples i recurrents per a tota la presentació.  
-**Referència conceptual:** ISTE resumeix el pensament computacional en descomposició, reconeixement de patrons, abstracció i algoritmes; el K–12 CS Framework l’associa a formular problemes i dissenyar algoritmes que un ordinador pot executar. citeturn15view3turn16view4
+**Visual suggerit:** imatge computational thinking  
+
 
 **Slide 8 — Mini activitat de classe**  
 **Títol a pantalla:** *Repte: com explicaries “fer un entrepà” a un robot?*  
 **Missatge clau:** “Si no ets precís, el robot s’equivoca.”  
-**Guió oral:** Demana 4 o 5 instruccions del públic i juga a ser un robot massa literal. Aquesta slide és important perquè prepara la idea de programa com a seqüència precisa.  
+
 **Visual suggerit:** dibuix molt simple d’un robot davant d’un entrepà.  
-**Referència pedagògica:** els enfocaments unplugged i de discussió guiada són centrals als materials de Code.org i CS Unplugged per introduir conceptes de computació sense començar per sintaxi. citeturn16view3turn0search3
+
 
 **Slide 9 — Què és la informàtica**  
-**Títol a pantalla:** *Informàtica = treballar amb informació*  
+**Títol a pantalla:** *Informàtica = treballar amb informació/dades*  
 **Missatge clau:** “Capturar, guardar, transformar i usar informació.”  
 **Guió oral:** No facis una definició acadèmica. Digues: “La informàtica tracta de com representem informació i com fem que les màquines la transformin.”  
 **Visual suggerit:** una cadena: informació → dades → programa → resultat.  
-**Referència conceptual:** Computer Science Field Guide introdueix la representació de dades justament des de la idea que els ordinadors treballen amb informació. citeturn28view0turn15view8
 
-**Slide 10 — Què poden ser dades**  
-**Títol a pantalla:** *Text, imatges, so, números, sensors*  
-**Missatge clau:** “Tot això són dades.”  
-**Guió oral:** Mostra que el mateix ordinador pot tractar paraules, fotos, música i mesures d’un sensor, perquè tot es representa internament d’alguna manera.  
+
+**Slide 10 — Què entenem per informació o dades**  
+**Títol a pantalla:** *Què entenem per informació o dades?*  
+**Missatge clau:** “Tot això són dades: Text, imatges, so, números, sensors”  
 **Visual suggerit:** cinc icones amb exemples molt recognoscibles.  
-**Referència conceptual:** la guia de representació de dades descriu documents, imatges, vídeos, so, fulls de càlcul i bases de dades com a informació que l’ordinador ha de representar internament. citeturn28view0
+
 
 **Slide 11 — Per què 1 i 0**  
-**Títol a pantalla:** *Els ordinadors fan servir dos estats*  
+**Títol a pantalla:** *Els ordinadors representen totes les dades en dos estats; 1 i 0*  
 **Missatge clau:** “Per això parlem de 1 i 0.”  
 **Guió oral:** Explica-ho amb metàfores de llum encesa/apagada o interruptor sí/no. No entris en electrònica. L’objectiu és que entenguin “dues opcions”.  
 **Visual suggerit:** interruptor, LED o targetes binàries.  
-**Referència conceptual:** CS Unplugged explica que els sistemes digitals representen informació amb el sistema binari, amb només dos dígits, 0 i 1. citeturn14view3turn0search0
 
 **Slide 12 — Exemple de text**  
 **Títol a pantalla:** *Una lletra també es pot convertir en nombres*  
 **Missatge clau:** “Text → codi numèric → bits.”  
 **Guió oral:** Fes **un sol exemple**, no una taula llarga. Per exemple: “A → 65 → 01000001”. El que importa no és memoritzar-ho, sinó veure el camí.  
 **Visual suggerit:** animació de tres passos, amb una sola lletra gran.  
-**Referència conceptual:** Code.org introdueix ASCII com a sistema per representar lletres i paraules, i CS Field Guide explica que cada caràcter rep un nombre que després es representa en binari. citeturn26search1turn15view7turn26search2
+
 
 **Slide 13 — Exemple d’imatge en blanc i negre**  
 **Títol a pantalla:** *Una imatge pot ser una graella*  
 **Missatge clau:** “Cada quadret és un píxel.”  
 **Guió oral:** Mostra una cara o un cor de 8×8. Explica que si només hi ha blanc o negre, cada píxel pot ser un 0 o un 1.  
 **Visual suggerit:** una icona pixelada gran amb la seva matriu al costat.  
-**Referència conceptual:** CS Unplugged i Code.org fan servir exactament aquesta idea per introduir representació d’imatges; Code.org mostra formats molt simples amb amplada, alçada i bits per píxel. citeturn14view4turn16view1turn16view0
+
 
 **Slide 14 — Exemple d’imatge en color**  
 **Títol a pantalla:** *En color, cada píxel guarda més informació*  
 **Missatge clau:** “Una barreja de vermell, verd i blau.”  
 **Guió oral:** No facis 24 bits en profunditat. Només digues que, en moltes pantalles, cada píxel guarda tres quantitats: vermell, verd i blau.  
 **Visual suggerit:** tres barres RGB i un quadrat de color resultant.  
-**Referència conceptual:** Computer Science Field Guide explica la representació RGB i que sovint el color d’un píxel es construeix combinant tres valors, habitualment 8 bits per canal. citeturn15view6
+
 
 **Slide 15 — Les instruccions també són dades**  
 **Títol a pantalla:** *Un programa també és informació*  
 **Missatge clau:** “Les ordres i les dades es poden guardar en binari.”  
 **Guió oral:** Aquesta és una slide molt elegant per passar de “dades” a “programa”: tant una foto com un programa es poden guardar i transmetre perquè, al final, també són bits.  
 **Visual suggerit:** una capsa amb dues etiquetes: *foto* i *programa*, totes dues entrant a memòria.  
-**Referència conceptual:** Computer Science Field Guide remarca que tant les instruccions d’un programa com les dades es poden representar en el mateix format binari. citeturn15view8
+
 
 **Slide 16 — Les peces bàsiques d’un programa**  
 **Títol a pantalla:** *Quatre peces bàsiques*  
