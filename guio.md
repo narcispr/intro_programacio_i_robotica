@@ -22,216 +22,203 @@ El millor tancament és exactament el que proposes, però amb una reformulació 
 
 ## Guió detallat dels blocs inicials
 
-**Slide 1 — Títol general**  
-**Títol a pantalla:** *Com pensen els ordinadors/robots*  
+**Titol slide 1 — Títol general**  
+**Subtítol:** *Com pensen els ordinadors/robots*  
 **Missatge clau:** “La informàtica no son només pantalles: és una manera d’entendre i transformar el món.”  
 **Guió oral:** Presenta’t en primera persona: ets professor d’Enginyeria Informàtica especialitzat en robòtica, treballes a la universitat, i avui vens a explicar-los per què saber pensar com un informàtic ajuda a fer coses reals.  
 **Visual suggerit:** foto jo i nens i foto g1000_barco.  
 
 
-**Slide 2 — Pregunta d’entrada**  
-**Títol a pantalla:** *On apareix la "informàtica" al teu dia?*  
+**Titol slide 2 — Pregunta d’entrada**  
+**Subtítol:** *On apareix la "informàtica" al teu dia?*  
 **Missatge clau:** “Més llocs dels que sembla.”  
 **Guió oral:** Demana que aixequin la mà si han fet servir un mòbil, un rellotge, una consola, un cotxe, un semàfor, una rentadora o un GPS avui o aquesta setmana. No expliquis encara res tècnic: només obre la curiositat.  
 
 
-**Slide 3 — Programari dins dels objectes**  
-**Títol a pantalla:** *Com pense els objectes: el “cervell digital”*  
+**Titol slide 3 — Programari dins dels objectes**  
+**Subtítol:** *Com pense els objectes: el “cervell digital”*  
 **Missatge clau:** Els objectes no pensen com nosaltres sinó que executen una serie d'instruccions.  
 **Guió oral:** Explica que molts objectes tenen petits ordinadors o microcontroladors a dins que els permeten executar seqüencies de dades que algú ha programat.  
 **Visual suggerit:** ascensor, rentadora, web, consola, semaàor
 
-**Slide 4 — Exemples molt concrets**  
-**Títol a pantalla:** *Com pense els objectes: el “cervell digital” II*  
+**Titol slide 4 — Exemples molt concrets**  
+**Subtítol:** *Com pense els objectes: el “cervell digital” II*  
 **Missatge clau:** “Molts aparells reben dades, processen i responen.”  
 **Guió oral:** un ascensor rep botons i controla motors porta i canviar de pis, una rentadora llegeix botons i sensors (humitat) i controla entrada aigua motors, ...; un semàfor canvia segons regles i temps.  
 **Visual suggerit:** quatre fotos grans, una paraula cada una: *entrades*, *procés*, *sortida*, *acció*.  
 
 
-**Slide 5 — Els programes que "fan coses"**  
-**Títol a pantalla:** *Els programes no només es troben dins de determinats objectes sinó que també serveixen per crear-ne*  
+**Titol slide 5 — Els programes que "fan coses"**  
+**Subtítol:** *Els programes no només es troben dins de determinats objectes sinó que també serveixen per crear-ne*  
 **Missatge clau:** “No només controlen objectes: també ajuden a dissenyar, simular i decidir.”  
 **Guió oral:** Aquí introdueix la idea que la informàtica també serveix per dibuixar edificis, analitzar dades científiques, planificar rutes, organitzar hospitals o estudiar el medi ambient. No intentis demostrar cada sector; el punt és que el programari ajuda altres professions.  
 **Visual suggerit:** imatge dun sistema CAD, gràfic científic i model 3D.  
 
 
-**Slide 6 — Saber programar és una competència transversal**  
-**Títol a pantalla:** *Programar és una supereina*  
+**Titol slide 6 — Saber programar és una competència transversal**  
+**Subtítol:** *Programar és una supereina*  
 **Missatge clau:** “T’ajuda a automatitzar, provar idees i entendre millor la tecnologia.”  
 **Guió oral:** Formula-ho així: “No tothom ha de ser programador professional, però entendre una mica de programació et dona poder per crear, provar, automatitzar i preguntar millor.”  
 **Visual suggerit:** una graella de professions: cièntific, metge, mestre, artiste, enginyer.  
 
-**Slide 7 — Què és Què és el pensament computacional**  
-**Títol a pantalla:** *El pensament computacional*  
+**Titol slide 7 — Què és Què és el pensament computacional**  
+**Subtítol:** *El pensament computacional*  
 **Missatge clau:** “és una manera de resoldre problemes perquè una persona o una màquina els pugui seguir: Descompondre, buscar patrons, abstraure i fer passos.”  
 **Guió oral:** Dona una definició minimalista: és una manera de resoldre problemes perquè una persona o una màquina els pugui seguir.  
 **Visual suggerit:** imatge computational thinking  
 
 
-**Slide 8 — Mini activitat de classe**  
-**Títol a pantalla:** *Repte: com explicaries “fer un entrepà” a un robot?*  
+**Titol slide 8 — Mini activitat de classe**  
+**Subtítol:** *Repte: com explicaries “fer un entrepà” a un robot?*  
 **Missatge clau:** “Si no ets precís, el robot s’equivoca.”  
 
 **Visual suggerit:** dibuix molt simple d’un robot davant d’un entrepà.  
 
 
-**Slide 9 — Què és la informàtica**  
-**Títol a pantalla:** *Informàtica = treballar amb informació/dades*  
+**Titol slide 9 — Què és la informàtica**  
+**Subtítol:** *Informàtica = treballar amb informació/dades*  
 **Missatge clau:** “Capturar, guardar, transformar i usar informació.”  
 **Guió oral:** No facis una definició acadèmica. Digues: “La informàtica tracta de com representem informació i com fem que les màquines la transformin.”  
 **Visual suggerit:** una cadena: informació → dades → programa → resultat.  
 
 
-**Slide 10 — Què entenem per informació o dades**  
-**Títol a pantalla:** *Què entenem per informació o dades?*  
+**Titol slide 10 — Què entenem per informació o dades**  
+**Subtítol:** *Què entenem per informació o dades?*  
 **Missatge clau:** “Tot això són dades: Text, imatges, so, números, sensors”  
 **Visual suggerit:** cinc icones amb exemples molt recognoscibles.  
 
 
-**Slide 11 — Per què 1 i 0**  
-**Títol a pantalla:** *Els ordinadors representen totes les dades en dos estats; 1 i 0*  
+**Titol slide 11 — Per què 1 i 0**  
+**Subtítol:** *Els ordinadors representen totes les dades en dos estats; 1 i 0*  
 **Missatge clau:** “Per això parlem de 1 i 0.”  
 **Guió oral:** Explica-ho amb metàfores de llum encesa/apagada o interruptor sí/no. No entris en electrònica. L’objectiu és que entenguin “dues opcions”.  
 **Visual suggerit:** interruptor, LED o targetes binàries.  
 
-**Slide 12 — Exemple de text**  
-**Títol a pantalla:** *Una lletra també es pot convertir en nombres*  
+**Titol slide 12 — Exemple de text**  
+**Subtítol:** *Una lletra també es pot convertir en nombres*  
 **Missatge clau:** “Text → codi numèric → bits.”  
 **Guió oral:** Fes **un sol exemple**, no una taula llarga. Per exemple: “A → 65 → 01000001”. El que importa no és memoritzar-ho, sinó veure el camí.  
 **Visual suggerit:** animació de tres passos, amb una sola lletra gran.  
 
 
-**Slide 13 — Exemple d’imatge en blanc i negre**  
-**Títol a pantalla:** *Una imatge pot ser una graella*  
+**Titol slide 13 — Exemple d’imatge en blanc i negre**  
+**Subtítol:** *Una imatge pot ser una graella*  
 **Missatge clau:** “Cada quadret és un píxel.”  
 **Guió oral:** Mostra una cara o un cor de 8×8. Explica que si només hi ha blanc o negre, cada píxel pot ser un 0 o un 1.  
 **Visual suggerit:** una icona pixelada gran amb la seva matriu al costat.  
 
 
-**Slide 14 — Exemple d’imatge en color**  
-**Títol a pantalla:** *En color, cada píxel guarda més informació*  
+**Titol slide 14 — Exemple d’imatge en color**  
+**Subtítol:** *En color, cada píxel guarda més informació*  
 **Missatge clau:** “Una barreja de vermell, verd i blau.”  
 **Guió oral:** No facis 24 bits en profunditat. Només digues que, en moltes pantalles, cada píxel guarda tres quantitats: vermell, verd i blau.  
 **Visual suggerit:** tres barres RGB i un quadrat de color resultant.  
 
 
-**Slide 15 — Les instruccions també són dades**  
-**Títol a pantalla:** *Un programa també és informació*  
-**Missatge clau:** “Les ordres i les dades es poden guardar en binari.”  
+**Titol slide 15 — Les instruccions també són dades**  
+**Subtítol:** *Un programa també son dades/informació*  
+**Missatge clau:** “Les ordres (instruccions) també es poden guardar en binari. Però a més, els ordinadors les "entenen" i les poden executar”  
 **Guió oral:** Aquesta és una slide molt elegant per passar de “dades” a “programa”: tant una foto com un programa es poden guardar i transmetre perquè, al final, també són bits.  
 **Visual suggerit:** una capsa amb dues etiquetes: *foto* i *programa*, totes dues entrant a memòria.  
 
 
-**Slide 16 — Les peces bàsiques d’un programa**  
-**Títol a pantalla:** *Quatre peces bàsiques*  
-**Missatge clau:** “Fer passos, repetir, decidir i guardar valors.”  
-**Guió oral:** Presenta les quatre peces en paraules molt planes: seqüència, bucles, condicionals i variables. Pots afegir entrada/sortida com a marc: “rebo informació, faig coses, retorno un resultat”.  
-**Visual suggerit:** quatre mini diagrames amb fletxes i un exemple quotidià.  
-**Referència conceptual:** els cursos elementals de Code.org introdueixen seqüències, bucles, esdeveniments, condicionals i variables progressivament; Teach Computing treballa entrada–procés–sortida com a fonament. citeturn16view3turn15view5
+**Titol slide 16 — Les peces bàsiques d’un programa**  
+**Subtítol:** *Les peces bàsiques d’un programa*  
+**Missatge clau:** “Els ordinadors només entenen ordres molt bàsiques com per exemple: fer operacions matemàtiques, repetir, evaluar condicions (>, <, =, ...) o guardar/llegir valors.”  
+**Visual suggerit:** els blocs d'scratch que fan aquestes operacions.  
 
-**Slide 17 — Una mateixa tasca, diverses maneres de programar**  
-**Títol a pantalla:** *La mateixa idea es pot expressar de maneres diferents*  
-**Missatge clau:** “Canvia el format, no el repte.”  
-**Guió oral:** Anuncia que ara veureu diferents maneres d’explicar a una màquina què ha de fer. Aquesta slide prepara la comparació Scratch / codi / IA.  
-**Visual suggerit:** un únic repte al centre i tres fletxes sortint cap a *blocs*, *text* i *aprendre*.  
-**Referència conceptual:** l’ensenyament de programació per a joves sovint passa de blocs a text i, al mateix temps, els materials actuals d’IA afegeixen enfocaments guiats per dades. citeturn14view2turn23view2
 
-**Slide 18 — Programació visual en blocs**  
-**Títol a pantalla:** *Scratch: programar encaixant peces*  
+**Titol slide 17 — Diverses maneres de programar**  
+**Subtítol:** *Es pot programar la mateixa idea de maneres diferents*  
+**Missatge clau:** “A l'hora de fer un programa podem utilitzar diferent llenguatges (igual que hi ha diferents llengues) i aquests poden ser molt diferents entre sí.”  
+**Visual suggerit:** La paraula Hola escrita en català, Anglès, Àrab, Xinès, Korea i en llengua de signes catalana o española
+
+**Titol slide 18 — Programació visual en blocs**  
+**Subtítol:** *Scratch: programar encaixant peces*  
 **Missatge clau:** “És visual i molt bona per començar.”  
 **Guió oral:** Has de dir explícitament que ells això ja ho coneixen, però que avui ho fareu servir com a primer llenguatge per pensar.  
 **Visual suggerit:** captura d’un petit programa Scratch amb moviment, repetició i condició molt simples.  
-**Referència visual:** Scratch es descriu com un llenguatge de blocs amb una interfície visual simple per crear històries, jocs i animacions. citeturn5search3turn14view1
 
-**Slide 19 — El mateix en text**  
-**Títol a pantalla:** *El mateix programa, escrit amb paraules*  
-**Missatge clau:** “Python o pseudocodi expressen les mateixes idees.”  
-**Guió oral:** Mostra dues o tres línies curtes. Per exemple, `for`, `if`, `move`. Aquí l’objectiu és que vegin la correspondència entre blocs i text, no ensenyar sintaxi real.  
+**Titol slide 19 — Llenguatges d'alt nivell**  
+**Subtítol:** *Escrivim el programa amb instruccions similars a les nostres paraules*  
+**Missatge clau:** “Expressen les mateixes idees de condició, repetició, operacions... de l'scratch però utilitzant paraules clau.”  
 **Visual suggerit:** pantalla dividida: Scratch a l’esquerra, pseudocodi/Python a la dreta.  
-**Referència conceptual:** Raspberry Pi té un curs específic per ajudar a transferir les habilitats de Scratch a Python i destaca que els aprenents poden reciclar el pensament i les estructures apreses amb blocs. citeturn14view2
 
-**Slide 20 — Per què el text és tan habitual**  
-**Títol a pantalla:** *Per què tanta gent programa amb text?*  
-**Missatge clau:** “És compacte, flexible i molt potent.”  
-**Guió oral:** Digues que el text és més habitual en entorns professionals perquè permet projectes grans, còpia fàcil, versions, fitxers i més control. No cal entrar en editors ni eines.  
-**Visual suggerit:** una lupa sobre unes poques línies de codi gran i llegible.  
-**Referència conceptual:** Raspberry Pi presenta la transició a Python com el pas natural després dels blocs, i Scratch destaca el valor d’una entrada inicial sense sintaxi complicada. citeturn14view1turn14view2
+**Titol slide 20 — Llenguatges d'alt nivell**  
+**Subtítol:** *El més popular?*  
+**Missatge clau:** “És compacte, flexible i molt potent. Hi ha dotzenes de llenguatges de programació diferents!”  
+**Visual suggerit:** un mateix programa (ex: for i in 10; si i % 2 == 0; print(i)) en C++, Python, Javascript, ... 
 
-**Slide 21 — Programació clàssica**  
-**Títol a pantalla:** *Manera 1: escriure les regles*  
-**Missatge clau:** “La persona decideix els passos.”  
-**Guió oral:** Aquesta és la forma clàssica: jo escric les regles, l’ordinador les executa. Reforça que aquí podem seguir el flux pas a pas.  
+
+**Titol slide 21 — Programació clàssica**  
+**Subtítol:** *Tant en la programació de blocs com utilitzant llenguatges d'alt nvell, el/la programador/a decideix les instruccions a executar*  
+**Missatge clau:** “La persona decideix els passos/regles i la màquina els executa.”  
 **Visual suggerit:** diagrama simple: humà → regles → ordinador → resultat.  
-**Referència conceptual:** Raspberry Pi descriu aquest enfocament com a rule-driven o CT 1.0, amb el focus posat en crear algoritmes. citeturn23view2
 
-**Slide 22 — Aprenentatge supervisat**  
-**Títol a pantalla:** *Manera 2: ensenyar amb molts exemples*  
-**Missatge clau:** “Li mostrem dades i etiquetes.”  
-**Guió oral:** Posa un exemple proper: fotos de peixos/plàstics, o dibuixos de gat/gos. La màquina no rep totes les regles una per una; aprèn patrons a partir d’exemples.  
-**Visual suggerit:** Teachable Machine o Quick, Draw!, amb dues classes i exemples.  
-**Referència visual:** Day of AI i Experience AI fan servir exemples reals, datasets i eines com Teachable Machine per introduir l’aprenentatge supervisat; Quick, Draw! és un exemple molt intuïtiu de sistema que aprèn a reconèixer dibuixos a partir de grans conjunts de dades. citeturn15view0turn15view1turn25search0turn28view4
-
-**Slide 23 — Aprenentatge per reforç**  
-**Títol a pantalla:** *Manera 3: provar moltes vegades i rebre punts*  
-**Missatge clau:** “Si ho fa bé, recompensa; si no, torna a provar.”  
-**Guió oral:** Explica-ho com un videojoc: el robot prova, s’equivoca, torna a provar i va buscant més punts.  
-**Visual suggerit:** una fletxa amb intents repetits cap a un objectiu o un tauler d’escacs.  
-**Referència conceptual:** DeepMind explica AlphaZero com un sistema que, donades només les regles del joc, va aprendre jugant contra si mateix milions de vegades per maximitzar la probabilitat de guanyar; NVIDIA descriu RL per a robots exactament com maximitzar recompenses mitjançant interacció repetida amb l’entorn. citeturn14view6turn23view0
-
-**Slide 24 — I la IA generativa?**  
-**Títol a pantalla:** *Avui també podem treballar parlant amb una IA*  
-**Missatge clau:** “Un prompt pot ajudar, però no substitueix entendre el problema.”  
-**Guió oral:** Aquí jo evitaria la paraula “vibe coding” a la pantalla. Diria: “Ara hi ha eines que et poden ajudar si expliques bé què vols, però després cal revisar, provar i corregir.”  
+**Titol slide 22 — Vibe Coding**  
+**Subtítol:** *Avui també podem treballar parlant amb una IA (I la IA generativa?)*  
+**Missatge clau:** “I una de les coses que sap fer molt bé la IA és programar amb llenguatges d'alt nivel.
 **Visual suggerit:** persona → prompt → IA → esborrany → comprovació humana.  
-**Referència conceptual:** Code.org i UNESCO insisteixen que l’ús educatiu de la IA generativa ha de ser responsable, crític i amb validació humana; Day of AI se centra a entendre, qüestionar i utilitzar la IA de manera responsable. citeturn29view0turn16view6turn7search2
 
-**Slide 25 — Petita slide d’alerta responsable**  
-**Títol a pantalla:** *La IA és potent, però no és màgia*  
-**Missatge clau:** “Aprèn de dades, pot fallar i cal comprovar-la.”  
-**Guió oral:** Aquesta slide ha de durar poc. Tres idees: pot equivocar-se, pot heretar problemes de les dades, i les persones continuem sent responsables del resultat.  
-**Visual suggerit:** un semàfor amb tres icones: *ajuda*, *error*, *comprova*.  
-**Referència conceptual:** Day of AI inclou biaix i justícia com a parts centrals de l’alfabetització en IA; UNESCO proposa un enfocament humà i adequat a l’edat per a l’ús educatiu de la IA generativa. citeturn15view0turn29view0
+**Titol slide 23 — Petita slide d’alerta responsable**  
+**Subtítol:** *La IA és potent, però no és màgia*  
+**Missatge clau:** “Aprèn de dades, pot fallar i cal comprovar-la. Tant si la feu servir per fer texts com per programar s'ha de vigilar molt que fa!”  
+**Visual suggerit:** un text i un programa  
+
+**Titol slide 24 — Aprenentatge màquina**  
+**Subtítol:** *Una altre manera de programar és possible?s*  
+**Missatge clau:** “Sí! En alguns porcessos podem ensenyar milions de dades etiquetades a l'ordinador i ell podràs extreue un model (programa). --> Aprenentatge supervisat”  
+**Visual suggerit:** dibuixos de gat/gos..  
+
+**Titol slide 25 — Aprenentatge màquina II**  
+**Subtítol:** *Una altre manera és deixa a l'ordinador provar moltes vegades una tasca i rebre punts si ho fa bé --> aprenentatge per reforç*  
+**Missatge clau:** “Si ho fa bé, recompensa (+1); si no càstig (-1), torna a provar.”  
+**Visual suggerit:** esquema cíclic agent -> acció --> tasca --> recompensa --> agent .  
+
+
+
+
 
 ## Guió del bloc de robòtica submarina
 
-**Slide 26 — Què faig jo**  
-**Títol a pantalla:** *Jo treballo amb robots submarins*  
+**Titol slide 26 — Què faig jo**  
+**Subtítol:** *Jo treballo amb robots submarins*  
 **Missatge clau:** “La informàtica també serveix per explorar i actuar sota l’aigua.”  
 **Guió oral:** Fes el pas natural: “Tot el que hem vist fins ara —dades, sensors, programes, decisions— és exactament el que necessitem perquè un robot funcioni.”  
 **Visual suggerit:** imatge gran del Girona I-AUV o SPARUS II.  
 **Referència visual:** CIRS descriu la seva recerca al voltant de control, simulació, navegació i construcció de robots submarins; el Girona I-AUV i SPARUS II tenen pàgines específiques amb imatges i descripció clara. citeturn14view7turn14view8turn14view9
 
-**Slide 27 — Per què robots sota l’aigua**  
-**Títol a pantalla:** *Per què no hi baixen sempre persones?*  
+**Titol slide 27 — Per què robots sota l’aigua**  
+**Subtítol:** *Per què no hi baixen sempre persones?*  
 **Missatge clau:** “Perquè hi ha llocs difícils, cars o perillosos.”  
 **Guió oral:** Explica tres motius infantils però seriosos: profunditat, visibilitat, temps sota l’aigua i seguretat.  
 **Visual suggerit:** foto de profunditat / estructura submarina / mar tèrbol.  
 **Referència conceptual:** CIRS presenta aquests robots per a inspecció, monitoratge, exploració i intervenció en entorns difícils i sovint perillosos per a humans. citeturn21search5turn10search4
 
-**Slide 28 — Què “té” un robot submarí**  
-**Títol a pantalla:** *Ulls, orelles, cervell i braços*  
+**Titol slide 28 — Què “té” un robot submarí**  
+**Subtítol:** *Ulls, orelles, cervell i braços*  
 **Missatge clau:** “Càmeres, sonar, sensors, control i, a vegades, manipuladors.”  
 **Guió oral:** Tradueix tecnologia a metàfores: càmera = ulls; sonar = “veure amb ones”; sensors = sentir el món; propulsors = moure’s; braços = actuar.  
 **Visual suggerit:** esquema annotat d’un AUV.  
 **Referència conceptual:** SPARUS II incorpora càmera i sonar per mapatge i inspecció; Girona I-AUV se centra en manipulació amb braços i en intervenció precisa. citeturn14view8turn14view9
 
-**Slide 29 — Què podem fer amb aquests robots**  
-**Títol a pantalla:** *Ciència, arqueologia, energia i ecologia*  
+**Titol slide 29 — Què podem fer amb aquests robots**  
+**Subtítol:** *Ciència, arqueologia, energia i ecologia*  
 **Missatge clau:** “La robòtica submarina ajuda a conèixer i cuidar el mar.”  
 **Guió oral:** Dona quatre exemples ràpids: mapar el fons, inspeccionar estructures, estudiar hàbitats marins, documentar restes arqueològiques.  
 **Visual suggerit:** una diapositiva amb quatre quadrants i una imatge per àrea.  
 **Referència conceptual:** les aplicacions i projectes de CIRS inclouen arqueologia submarina, energia offshore, observació d’hàbitats i restauració amb IA integrada. citeturn21search2turn21search1turn23view6turn21search0
 
-**Slide 30 — Vídeo recomanat de mapatge o inspecció**  
-**Títol a pantalla:** *Vídeo: el robot crea un mapa 3D*  
+**Titol slide 30 — Vídeo recomanat de mapatge o inspecció**  
+**Subtítol:** *Vídeo: el robot crea un mapa 3D*  
 **Missatge clau:** “Primer mira, després entén.”  
 **Guió oral:** Abans del vídeo, formula una pregunta: “Quines dades creieu que està recollint?”  
 **Vídeos recomanats del teu canal:** *Inspection of an Underwater Structure using Point Cloud SLAM with an AUV and a Laser Scanner* o *Underwater Pose SLAM using GMM Scan Matching for a Mechanical Profiling Sonar*.  
 **Visual suggerit:** fotograma del vídeo + tres icones: sonar, trajectòria, mapa.  
 **Referència de vídeo:** resultats de SLAM, inspecció i reconstrucció 3D del canal CIRS UdG. citeturn27search9turn27search2
 
-**Slide 31 — Vídeo recomanat d’intervenció o manipulació**  
-**Títol a pantalla:** *Vídeo: el robot no només mira, també actua*  
+**Titol slide 31 — Vídeo recomanat d’intervenció o manipulació**  
+**Subtítol:** *Vídeo: el robot no només mira, també actua*  
 **Missatge clau:** “Quan el robot manipula, la dificultat puja molt.”  
 **Guió oral:** Abans del vídeo, digues: “Ara ja no es tracta només de saber on és; també ha de tocar, agafar o connectar.”  
 **Vídeos recomanats del teu canal:** *Autonomous Underwater Intervention, Docking and Intervention*, *Autonomous Cooperative Underwater Object Assembly* o *I-AUV Recovering a Black Box*.  
@@ -240,51 +227,51 @@ El millor tancament és exactament el que proposes, però amb una reformulació 
 
 ## Guió del bloc final amb el robot
 
-**Slide 32 — El repte final comú**  
-**Títol a pantalla:** *Un mateix repte per a quatre maneres d’ensenyar un robot*  
+**Titol slide 32 — El repte final comú**  
+**Subtítol:** *Un mateix repte per a quatre maneres d’ensenyar un robot*  
 **Missatge clau:** “Anar a un punt, agafar un objecte i deixar-lo a un altre lloc.”  
 **Guió oral:** Explica que **no canvia el problema**, només canvia la manera de donar coneixement al robot. Aquesta és la slide-pont més important de tota la presentació.  
 **Visual suggerit:** esquema de taula amb punt A, objecte i punt B.  
 **Referència conceptual:** connecta el bloc final amb les tres grans vies que ja has introduït: regles, demostració i aprenentatge. citeturn23view2turn23view0turn24view4
 
-**Slide 33 — Mètode 1: blocs**  
-**Títol a pantalla:** *Manera A: blocs*  
+**Titol slide 33 — Mètode 1: blocs**  
+**Subtítol:** *Manera A: blocs*  
 **Missatge clau:** “Arrossego peces que diuen què ha de fer.”  
 **Guió oral:** Mostra un programa mínim amb peces tipus `anar a`, `baixar`, `tancar pinça`, `pujar`, `anar a`, `obrir pinça`.  
 **Visual suggerit:** pseudo-Scratch o editor per blocs molt net.  
 **Missatge pedagògic:** Fes-los predir l’ordre correcte abans de revelar-lo.  
 **Referència conceptual:** Scratch i els currículums elementals mostren que la programació per blocs és una entrada natural per aprendre seqüències, repeticions i decisions. citeturn14view1turn16view3
 
-**Slide 34 — Mètode 2: codi imperatiu**  
-**Títol a pantalla:** *Manera B: codi textual*  
+**Titol slide 34 — Mètode 2: codi imperatiu**  
+**Subtítol:** *Manera B: codi textual*  
 **Missatge clau:** “El mateix, però escrit.”  
 **Guió oral:** Proposa un pseudocodi curt amb `moveJ`, `open_gripper`, `close_gripper` i, si vols, un únic `if object_detected`. Evita un `for` si no aporta res al repte; si el poses, que sigui perquè realment repeteix una comprovació.  
 **Visual suggerit:** codi molt curt, màxim 8 línies, tipus gran.  
 **Referència conceptual:** el pas de Scratch a Python és un patró educatiu consolidat i la sintaxi textual permet expressar les mateixes estructures amb més flexibilitat. citeturn14view2
 
-**Slide 35 — Mètode 3: ensenyar per demostració**  
-**Títol a pantalla:** *Manera C: jo ho faig una vegada i el robot ho repeteix*  
+**Titol slide 35 — Mètode 3: ensenyar per demostració**  
+**Subtítol:** *Manera C: jo ho faig una vegada i el robot ho repeteix*  
 **Missatge clau:** “L’ensenyem amb una demostració.”  
 **Guió oral:** Aquí faria una correcció important a la teva redacció: digues **“demostració i replay de trajectòries”**, no “VLA”, perquè en la demo que proposes realment el robot repetirà trajectòries enregistrades, no un model generalista visió-llenguatge-acció. Si vols mencionar el paral·lelisme modern, pots dir-ho a la nota oral, però a la slide no.  
 **Visual suggerit:** braç guia/leader i braç follower, o una línia temporal de posicions enregistrades.  
 **Referència conceptual:** la documentació de SO-100/LeRobot treballa explícitament amb braços leader/follower, calibració compartida i tutorials d’imitation learning; al teu propi context, CIRS també ha mostrat arquitectura d’aprenentatge per demostració per a AUVs d’intervenció. citeturn24view1turn24view4turn27search17
 
-**Slide 36 — Mètode 4: aprenentatge per reforç**  
-**Títol a pantalla:** *Manera D: el deixem provar en simulació*  
+**Titol slide 36 — Mètode 4: aprenentatge per reforç**  
+**Subtítol:** *Manera D: el deixem provar en simulació*  
 **Missatge clau:** “Rep punts quan s’acosta a l’objectiu.”  
 **Guió oral:** Aquesta és la forma més “màgica” per a ells, així que cal dir-la amb una sola frase: “No li diem exactament què fer; només com saber si va millor o pitjor.”  
 **Visual suggerit:** simulació amb marcador de recompensa que puja quan l’efector s’acosta o pressiona correctament.  
 **Referència conceptual:** NVIDIA descriu RL com aprenentatge que maximitza una recompensa després de moltes interaccions; AlphaZero és un exemple canònic de sistema que aprèn així a partir de les regles i d’assaig i error. citeturn23view0turn14view6
 
-**Slide 37 — Comparar les quatre maneres**  
-**Títol a pantalla:** *Què guanyem i què perdem en cada mètode?*  
+**Titol slide 37 — Comparar les quatre maneres**  
+**Subtítol:** *Què guanyem i què perdem en cada mètode?*  
 **Missatge clau:** “No hi ha una sola manera bona; depèn del problema.”  
 **Guió oral:** Compara-les amb llenguatge molt senzill. Blocs: molt clar. Codi: més potent. Demostració: ràpida per copiar un moviment. Reforç: bo quan el problema és difícil d’escriure a mà però costós d’entrenar.  
 **Visual suggerit:** quatre columnes amb “fàcil d’entendre”, “precís”, “flexible”, “aprèn sol”.  
 **Referència conceptual:** els materials actuals d’educació en programació i IA insisteixen en distingir entre solucions guiades per algorismes i solucions guiades per dades o retroalimentació. citeturn23view2turn15view1
 
-**Slide 38 — Tancament**  
-**Títol a pantalla:** *Idees finals*  
+**Titol slide 38 — Tancament**  
+**Subtítol:** *Idees finals*  
 **Missatge clau:** “Pensar de manera computacional et permet entendre i construir coses noves.”  
 **Guió oral:** Tanca amb tres frases: la informàtica és a tot arreu; els ordinadors treballen amb dades; i programar és una manera d’explicar idees a màquines perquè facin feina útil.  
 **Visual suggerit:** muntatge final que uneixi dispositius, bits, Scratch, IA i robot submarí.  
