@@ -1,4 +1,4 @@
-\section{Bloc 1}
+\section{El pensament computacional}
 
 \begin{frame}{Qui soc jo?}
 
@@ -13,13 +13,16 @@
     \pause
     \includegraphics[width=\linewidth,height=0.53\textheight,keepaspectratio]{img/g1000_barco.jpg}
 
-    {\scriptsize el meu altre nen: Girona 1000 AUV}
+    {\scriptsize ...el meu altre nen: Girona 1000 AUV}
   \end{columns}
-  \begin{itemize}
-    \item De petit m'agradave molt els robots
-    \item Vaig estudiat informàtica
-    \item Ara treballo de professora i faig recerca en robòtica
-  \end{itemize}
+    \pause
+    \begin{center}
+      \begin{itemize}
+          \item De petit m'agradave molt els robots
+          \item Vaig estudiat informàtica
+          \item Ara treballo de professora i faig recerca en robòtica
+      \end{itemize}
+    \end{center}
 \end{frame}
 
 \begin{frame}{On apareix la ``informàtica'' al teu dia?}
@@ -29,32 +32,8 @@
  
 \end{frame}
 
-\begin{frame}{Com pensen els objectes: el ``cervell digital''}
-  \keyline{Els objectes no pensen com nosaltres: executen "instruccions".}
-  \begin{columns}[T,onlytextwidth]
-    \column{0.36\textwidth}
-    \begin{itemize}
-      \item Sensors $\leftarrow$ 
-      \item Botons $\leftarrow$
-      \item Pantalla $\rightarrow$
-      \item Motor o actuador $\rightarrow$
-    \end{itemize}
-     \keyline{Els aparells reben dades, processen i responen.}
-    \column{0.64\textwidth}
-    \centering
-    \fbox{\includegraphics[width=\linewidth,height=0.52\textheight]{img/slide03_cervell_digital.png}}
 
-  \end{columns}
-\end{frame}
-
-% \begin{frame}{Com pensen els objectes: el ``cervell digital'' II}
-%   \keyline{Molts aparells reben dades, processen i responen.}
-%   \centering
-%   \fbox{\includegraphics[width=0.93\linewidth,height=0.55\textheight]{img/slide04_entrades_proces_sortida.png}}
-
-% \end{frame}
-
-\begin{frame}{Així dons, on hi ha promgrames?}
+\begin{frame}{Així dons, on trobem "programes"?}
   \keyline{A tot arreu!}
   \begin{itemize}
     \item Hi ha programes per controlar objectes (portes, ascensors, cotxes, ...) 
@@ -66,21 +45,43 @@
      \item Hi ha programes que ens ajuden a aprendre (jocs, simuladors, ...)
     \item ...
   \end{itemize}
+  
+\end{frame}
+
+\begin{frame}{I nosaltres hem de saber programar?}
+  \keyline{Utilitzar programes ja fets ens ajuda al dia a dia, saber programar és una \textbf{supereina!}}
   \centering
-  \fbox{\includegraphics[width=0.93\linewidth,height=0.55\textheight]{img/slide05_programari_crea_mon.png}}
-
+  \includegraphics[width=0.4\linewidth]{img/tothom_programa.png}
 \end{frame}
 
-\begin{frame}{Programar és una supereina}
-  \keyline{T'ajuda a automatitzar, provar idees i entendre millor la tecnologia.}
-  No només la utilitzen eñs informàtics, sinó també
-  \begin{itemize}
-    \item científics
-    \item enginyers
-    \item artistes
-    \item ...
-  \end{itemize}
-\end{frame}
+% \begin{frame}{Com pensen els objectes: el ``cervell digital''}
+%   \keyline{Els objectes no pensen com nosaltres: executen "instruccions".}
+%   \begin{columns}[T,onlytextwidth]
+%     \column{0.36\textwidth}
+%     \begin{itemize}
+%       \item Sensors $\leftarrow$ 
+%       \item Botons $\leftarrow$
+%       \item Pantalla $\rightarrow$
+%       \item Motor o actuador $\rightarrow$
+%     \end{itemize}
+%      \keyline{Els aparells reben dades, processen i responen.}
+%     \column{0.64\textwidth}
+%     \centering
+%     \fbox{\includegraphics[width=0.5\linewidth]{img/digital_brain.png}}
+
+%   \end{columns}
+% \end{frame}
+
+% \begin{frame}{Com pensen els objectes: el ``cervell digital'' II}
+%   \keyline{Molts aparells reben dades, processen i responen.}
+%   \centering
+%   \fbox{\includegraphics[width=0.93\linewidth,height=0.55\textheight]{img/slide04_entrades_proces_sortida.png}}
+
+% \end{frame}
+
+
+
+
 
 \begin{frame}{El pensament computacional}
   \keyline{És una manera de resoldre problemes perquè una persona o una màquina els pugui seguir: descompondre, buscar patrons, abstraure i fer passos.}
@@ -105,22 +106,72 @@
   
 \end{frame}
 
-\begin{frame}{Informàtica = treballar amb informació/dades}
-  \keyline{Capturar, guardar, transformar i usar informació.}
+\begin{frame}{Què fan els informàtics?}
+  \keyline{Donen instruccions clares perquè els ordinadors resolguin problemes.}
+
   \centering
-  \vspace{2.5cm}
-  \begin{tikzpicture}[node distance=1.5cm]
-    \node[draw,rounded corners,fill=udgsand,minimum width=2.2cm,minimum height=1cm] (i) {informació};
-    \node[draw,rounded corners,fill=udgblue!12,right=of i,minimum width=2.2cm,minimum height=1cm] (d) {dades};
-    \node[draw,rounded corners,fill=udgteal!15,right=of d,minimum width=2.2cm,minimum height=1cm] (p) {programa};
-    \node[draw,rounded corners,fill=udgcoral!18,right=of p,minimum width=2.2cm,minimum height=1cm] (r) {resultat};
-    \draw[-{Latex[length=2mm]},thick] (i) -- (d);
-    \draw[-{Latex[length=2mm]},thick] (d) -- (p);
-    \draw[-{Latex[length=2mm]},thick] (p) -- (r);
-  \end{tikzpicture}
+  \vspace{1cm}
+
+\begin{tikzpicture}[
+  node distance=1.2cm,
+  every node/.style={align=center, font=\small}
+]
+  % Nodes
+  \node[draw, rounded corners, fill=udgsand, minimum width=2cm, minimum height=0.8cm] (p) {Problema};
+
+  \node[draw, rounded corners, fill=udgblue!12, right=of p, minimum width=3cm, minimum height=1cm] (pc) 
+  {\footnotesize Descompondre \\ Patrons \\ Abstracció};
+
+  \node[draw, rounded corners, fill=udgteal!15, right=of pc, minimum width=2cm, minimum height=0.8cm] (a) {Algorisme};
+
+  \node[draw, rounded corners, fill=udgcoral!18, right=of a, minimum width=2cm, minimum height=0.8cm] (s) {Solució};
+
+  % Arrows
+  \draw[-{Latex[length=1.5mm]}, thick] (p) -- (pc);
+  \draw[-{Latex[length=1.5mm]}, thick] (pc) -- (a);
+  \draw[-{Latex[length=1.5mm]}, thick] (a) -- (s);
+\end{tikzpicture}
 \end{frame}
 
-\begin{frame}{Què entenem per informació o dades?}
+
+\begin{frame}{D'on ve la paraula informàtica?}
+
+  \pause
+\large
+\textbf{Informàtica} ve de dues paraules:
+
+\vspace{0.5cm}
+
+\pause
+\begin{itemize}
+  \item \textbf{Informació} 
+  \pause
+  \begin{itemize}
+    \item Dades que tenen sentit
+    \item Ens ajuden a entendre coses o prendre decisions
+  \end{itemize}
+
+  \vspace{0.3cm}
+  \pause
+
+  \item \textbf{Automàtica}
+  \pause
+  \begin{itemize}
+    \item Funciona sola
+    \item Sense haver de dir-li cada pas tot el temps
+  \end{itemize}
+\end{itemize}
+
+\vspace{0.8cm}
+\pause
+
+\centering
+\textbf{Informàtica = tractar informació de forma automàtica}
+
+\end{frame}
+
+
+\begin{frame}{Què entenem per dades?}
   \keyline{Tot això són dades.}
   \begin{center}
 
@@ -162,9 +213,40 @@
   
 \end{frame}
 
+
+\begin{frame}{Com representen els números els ordinadors?}
+
+\centering
+
+\begin{tikzpicture}[node distance=2.5cm, every node/.style={align=center, font=\large}]
+  
+  % Nodes
+  \node[draw, rounded corners, fill=udgsand, minimum width=2.5cm, minimum height=1.2cm] (dec) {12};
+
+  \node[draw, rounded corners, fill=udgblue!12, right=of dec, minimum width=3cm, minimum height=1.2cm] (bin) {1100};
+
+  % Arrow
+  \draw[-{Latex[length=2mm]}, thick] (dec) -- (bin);
+
+\end{tikzpicture}
+
+\vspace{1cm}
+
+\large
+$1\cdot 2^3 + 1\cdot 2^2 + 0\cdot 2^1 + 0\cdot 2^0$
+
+\vspace{0.5cm}
+
+\normalsize
+$= 8 + 4 + 0 + 0 = 12$
+
+\end{frame}
+
+
 \begin{frame}{Les lletres també son 1s i 0s?}
   \keyline{Text $\rightarrow$ codi numèric $\rightarrow$ bits.}
   \centering
+  \vspace{1cm}
   \begin{tikzpicture}[node distance=1.4cm]
     \node[draw,rounded corners,fill=udgsand,minimum width=2cm,minimum height=1.3cm] (a) {\Huge A};
     \node[draw,rounded corners,fill=udgblue!12,right=of a,minimum width=2cm,minimum height=1.3cm] (b) {\Huge 65};
@@ -176,8 +258,10 @@
 
 \begin{frame}{I les imatges?}
   \keyline{Cada quadret és un píxel.}
+  \vspace{1cm}
   \begin{columns}[T,onlytextwidth]
     \column{0.55\textwidth}
+    
     \centering
     \begin{tikzpicture}[scale=0.32]
       \foreach \x in {0,...,7} {
@@ -200,6 +284,7 @@
 \begin{frame}{I els colors?}
   \keyline{Una barreja de vermell, verd i blau.}
   \begin{columns}[T,onlytextwidth]
+    \vspace{1cm}
     \column{0.55\textwidth}
     \centering
     \begin{tikzpicture}[scale=1]
@@ -219,31 +304,53 @@
   \end{columns}
 \end{frame}
 
-\begin{frame}{Les instruccions també són dades}
-  \keyline{Les ordres també es poden guardar en binari, i l'ordinador les pot executar.}
-  \begin{columns}[T,onlytextwidth]
-    \column{0.45\textwidth}
-    \begin{block}{Idea important}
-      una foto i un programa poden acabar guardats com a bits
-    \end{block}
-    \column{0.55\textwidth}
-    \centering
-    \begin{tikzpicture}[node distance=0.8cm,scale=0.86,transform shape]
-      \node[draw,rounded corners,fill=udgblue!12,minimum width=2.4cm,minimum height=1cm] (foto) {foto};
-      \node[draw,rounded corners,fill=udgcoral!18,below=of foto,minimum width=2.4cm,minimum height=1cm] (prog) {programa};
-      \node[draw,rounded corners,fill=udgsand,right=1.15cm of foto,minimum width=2.7cm,minimum height=2.3cm] (mem) {memòria};
-      \node[below=0.35cm of mem] (bits) {\Large 01001011};
-      \draw[-{Latex[length=2mm]},thick] (foto) -- (mem);
-      \draw[-{Latex[length=2mm]},thick] (prog) -- (mem);
-      \draw[-{Latex[length=2mm]},thick] (mem.south) -- (bits);
-    \end{tikzpicture}
-  \end{columns}
+\begin{frame}{Què és l'automatització?}
+
+\large
+\textbf{Automatitzar} és fer que una màquina faci una tasca sola,
+seguint unes \emph{instruccions}.
+
+\vspace{0.8cm}
+
+\normalsize
+\textbf{Com funciona?}
+
+\vspace{0.4cm}
+
+\centering
+\begin{tikzpicture}[
+  node distance=2cm,
+  every node/.style={align=center, font=\small}
+]
+
+  % Nodes
+  \node[draw, rounded corners, fill=udgsand, minimum width=2.5cm, minimum height=1cm] (d) {Dades};
+
+  \node[draw, rounded corners, fill=udgblue!12, right=of d, minimum width=3.5cm, minimum height=1cm] (p) {Instruccions \\ \footnotesize (programa)};
+
+  \node[draw, rounded corners, fill=udgcoral!18, right=of p, minimum width=2.5cm, minimum height=1cm] (i) {Informació};
+
+  % Arrows
+  \draw[-{Latex[length=2mm]}, thick] (d) -- (p);
+  \draw[-{Latex[length=2mm]}, thick] (p) -- (i);
+
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+\centering
+Podem transformar dades en informació útil \\
+\textbf{de forma automàtica}
+
+\normalsize
+Exemple: moltes dades del temps $\rightarrow$ “demà plourà”
 
 \end{frame}
 
-\begin{frame}{Les peces bàsiques d'un programa}
+\begin{frame}{Quines instruccions entenen els ordinadors?}
   \keyline{Els ordinadors entenen ordres bàsiques: operar, repetir, comparar i guardar valors.}
   \centering
+  \vspace{1cm}
   \begin{tikzpicture}[x=1cm,y=1cm]
     \node[draw,rounded corners=5pt,fill=udgblue!15,minimum width=3.1cm,minimum height=0.75cm] at (0,1.4) {operació: $3+4$};
     \node[draw,rounded corners=5pt,fill=udgteal!18,minimum width=3.1cm,minimum height=0.75cm] at (3.7,1.4) {repeteix 10};
@@ -253,23 +360,22 @@
   \end{tikzpicture}
   \vspace{0.3em}
 
-  {\scriptsize operacions matemàtiques \quad repeticions \quad condicions \quad valors}
+  {\scriptsize operacions matemàtiques \quad repeticions \quad condicions \quad ...}
 \end{frame}
 
 \begin{frame}{Es pot programar la mateixa idea de maneres diferents}
   \keyline{Podem expressar una idea amb diferents llenguatges, igual que passa amb les llengües.}
+  \vspace{1cm}
   \centering
   \begin{tikzpicture}[node distance=1.1cm]
-    \node[draw,rounded corners,fill=udgsand,minimum width=2.3cm,minimum height=1cm] (idea) {saluda};
+    \node[draw,rounded corners,fill=udgsand,minimum width=2.3cm,minimum height=1cm] (idea) {saludar};
     \node[draw,rounded corners,fill=udgblue!12,above right=0.35cm and 1.4cm of idea,minimum width=2.2cm] (cat) {Hola};
     \node[draw,rounded corners,fill=udgteal!15,right=1.4cm of idea,minimum width=2.2cm] (eng) {Hello};
     \node[draw,rounded corners,fill=udgcoral!18,below right=0.35cm and 1.4cm of idea,minimum width=2.2cm] (ara) {Marhaba};
     \node[draw,rounded corners,fill=udgblue!7,right=1.1cm of eng,minimum width=2.2cm] (xin) {Ni hao};
     \node[draw,rounded corners,fill=udgsand!65,right=1.1cm of cat,minimum width=2.2cm] (kor) {Annyeong};
     \node[draw,rounded corners,fill=udgsea!25,right=1.1cm of ara,minimum width=2.2cm] (sig) {signes};
-    \foreach \n in {cat,eng,ara,xin,kor,sig} {
-      \draw[-{Latex[length=2mm]},thick] (idea) -- (\n);
-    }
+    
   \end{tikzpicture}
 
 \end{frame}
