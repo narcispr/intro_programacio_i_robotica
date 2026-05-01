@@ -181,49 +181,29 @@ El millor tancament és exactament el que proposes, però amb una reformulació 
 
 ## Guió del bloc de robòtica submarina
 
-**Titol slide 26 — Què faig jo**  
-**Subtítol:** *Jo treballo amb robots submarins*  
-**Missatge clau:** “La informàtica també serveix per explorar i actuar sota l’aigua.”  
-**Guió oral:** Fes el pas natural: “Tot el que hem vist fins ara —dades, sensors, programes, decisions— és exactament el que necessitem perquè un robot funcioni.”  
-**Visual suggerit:** imatge gran del Girona I-AUV o SPARUS II.  
-**Referència visual:** CIRS descriu la seva recerca al voltant de control, simulació, navegació i construcció de robots submarins; el Girona I-AUV i SPARUS II tenen pàgines específiques amb imatges i descripció clara. citeturn14view7turn14view8turn14view9
+**Titol slide 26 — COm és la meva feina?**  
+**Subtítol:** *A part de fer classes, jo treballo amb robots submarins*  
+**Missatge clau:** “La robòtica no només és sciencia i ficció sinó que ens ajuda a realitzar moltes tasques.”  
+**Visual suggerit:** descarrega imatge de un robot industrial i un robot tipus roomba (aspirador).  
 
-**Titol slide 27 — Per què robots sota l’aigua**  
-**Subtítol:** *Per què no hi baixen sempre persones?*  
-**Missatge clau:** “Perquè hi ha llocs difícils, cars o perillosos.”  
-**Guió oral:** Explica tres motius infantils però seriosos: profunditat, visibilitat, temps sota l’aigua i seguretat.  
-**Visual suggerit:** foto de profunditat / estructura submarina / mar tèrbol.  
-**Referència conceptual:** CIRS presenta aquests robots per a inspecció, monitoratge, exploració i intervenció en entorns difícils i sovint perillosos per a humans. citeturn21search5turn10search4
+**Titol slide 27 — Per què volem robots sota l’aigua**  
+**Subtítol:** *Per què és un lloc difícil d'accedir-hi, perillos i enorme (si ho em d'inspeccionar zones manualment tardarem molt").*  
+**Visual suggerit:** posa una imatge de: foto de profunditat o estructura submarina o mar tèrbol.  
 
 **Titol slide 28 — Què “té” un robot submarí**  
-**Subtítol:** *Ulls, orelles, cervell i braços*  
-**Missatge clau:** “Càmeres, sonar, sensors, control i, a vegades, manipuladors.”  
-**Guió oral:** Tradueix tecnologia a metàfores: càmera = ulls; sonar = “veure amb ones”; sensors = sentir el món; propulsors = moure’s; braços = actuar.  
-**Visual suggerit:** esquema annotat d’un AUV.  
-**Referència conceptual:** SPARUS II incorpora càmera i sonar per mapatge i inspecció; Girona I-AUV se centra en manipulació amb braços i en intervenció precisa. citeturn14view8turn14view9
+**Subtítol:** *Ulls --> cameres, orelles -> sonar, cervell --> Ordinadors i braços --> manipuladors*  
+**Visual suggerit:** guarda espai per una imatge, pots fer 2 columnes una amb el text i l'altre la deixes buida per la imatge.  
 
 **Titol slide 29 — Què podem fer amb aquests robots**  
-**Subtítol:** *Ciència, arqueologia, energia i ecologia*  
+**Subtítol:** *Ciència, arqueologia, energia, ecologia...*  
 **Missatge clau:** “La robòtica submarina ajuda a conèixer i cuidar el mar.”  
-**Guió oral:** Dona quatre exemples ràpids: mapar el fons, inspeccionar estructures, estudiar hàbitats marins, documentar restes arqueològiques.  
 **Visual suggerit:** una diapositiva amb quatre quadrants i una imatge per àrea.  
-**Referència conceptual:** les aplicacions i projectes de CIRS inclouen arqueologia submarina, energia offshore, observació d’hàbitats i restauració amb IA integrada. citeturn21search2turn21search1turn23view6turn21search0
 
-**Titol slide 30 — Vídeo recomanat de mapatge o inspecció**  
-**Subtítol:** *Vídeo: el robot crea un mapa 3D*  
-**Missatge clau:** “Primer mira, després entén.”  
-**Guió oral:** Abans del vídeo, formula una pregunta: “Quines dades creieu que està recollint?”  
-**Vídeos recomanats del teu canal:** *Inspection of an Underwater Structure using Point Cloud SLAM with an AUV and a Laser Scanner* o *Underwater Pose SLAM using GMM Scan Matching for a Mechanical Profiling Sonar*.  
-**Visual suggerit:** fotograma del vídeo + tres icones: sonar, trajectòria, mapa.  
-**Referència de vídeo:** resultats de SLAM, inspecció i reconstrucció 3D del canal CIRS UdG. citeturn27search9turn27search2
+**Titol slide 30 — Algunes coses que hem fet nosaltres**  
+**Subtítol:**   
+**Vídeos recomanats del teu canal:** linjs als videos: *Inspection of an Underwater Structure using Point Cloud SLAM with an AUV and a Laser Scanner* o *Underwater Pose SLAM using GMM Scan Matching for a Mechanical Profiling Sonar*. *Autonomous Underwater Intervention, Docking and Intervention*, *Autonomous Cooperative Underwater Object Assembly* o *I-AUV Recovering a Black Box*.   estan tots al canal https://www.youtube.com/@cirsudg
 
-**Titol slide 31 — Vídeo recomanat d’intervenció o manipulació**  
-**Subtítol:** *Vídeo: el robot no només mira, també actua*  
-**Missatge clau:** “Quan el robot manipula, la dificultat puja molt.”  
-**Guió oral:** Abans del vídeo, digues: “Ara ja no es tracta només de saber on és; també ha de tocar, agafar o connectar.”  
-**Vídeos recomanats del teu canal:** *Autonomous Underwater Intervention, Docking and Intervention*, *Autonomous Cooperative Underwater Object Assembly* o *I-AUV Recovering a Black Box*.  
-**Visual suggerit:** fotograma amb braç robòtic o docking panel.  
-**Referència de vídeo:** vídeos del canal CIRS UdG sobre docking, intervenció, assemblatge i recuperació d’objectes. citeturn27search4turn27search3turn27search11
+
 
 ## Guió del bloc final amb el robot
 
